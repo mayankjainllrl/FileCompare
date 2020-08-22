@@ -12,6 +12,6 @@ Comparing two files.
 Line number of first difference between two files with its location.
 
 ###### Note :-
-Sample txt file have been provided you can use yours.
+###### Sample txt files have been provided in repo you can use yours if you want.
 
 
